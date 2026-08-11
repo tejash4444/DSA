@@ -1,99 +1,32 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0001-two-sum) |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0048-rotate-image](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0048-rotate-image) |
-| [0053-maximum-subarray](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0053-maximum-subarray) |
-| [0054-spiral-matrix](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0054-spiral-matrix) |
-| [0075-sort-colors](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0075-sort-colors) |
-| [0128-longest-consecutive-sequence](https://github.com/tejash4444/DSA/tree/master/0128-longest-consecutive-sequence) |
-| [0136-single-number](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0136-single-number) |
-| [0169-majority-element](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0169-majority-element) |
-| [0189-rotate-array](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0189-rotate-array) |
-| [0283-move-zeroes](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0283-move-zeroes) |
-| [0485-max-consecutive-ones](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0485-max-consecutive-ones) |
-| [0560-subarray-sum-equals-k](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0560-subarray-sum-equals-k) |
-| [0628-maximum-product-of-three-numbers](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0628-maximum-product-of-three-numbers) |
-| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
-| [1752-check-if-array-is-sorted-and-rotated](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
-| [2149-rearrange-array-elements-by-sign](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
-## Math
-|  |
-| ------- |
-| [0048-rotate-image](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0048-rotate-image) |
-| [0189-rotate-array](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0189-rotate-array) |
-| [0628-maximum-product-of-three-numbers](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0628-maximum-product-of-three-numbers) |
-## Two Pointers
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0075-sort-colors](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0075-sort-colors) |
-| [0189-rotate-array](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0189-rotate-array) |
-| [0283-move-zeroes](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0283-move-zeroes) |
-| [2149-rearrange-array-elements-by-sign](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0136-single-number](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0136-single-number) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0001-two-sum) |
-| [0128-longest-consecutive-sequence](https://github.com/tejash4444/DSA/tree/master/0128-longest-consecutive-sequence) |
-| [0169-majority-element](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0169-majority-element) |
-| [0560-subarray-sum-equals-k](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0560-subarray-sum-equals-k) |
-## Sorting
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0075-sort-colors) |
-| [0169-majority-element](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0169-majority-element) |
-| [0628-maximum-product-of-three-numbers](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0628-maximum-product-of-three-numbers) |
-| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0053-maximum-subarray) |
-| [0169-majority-element](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0169-majority-element) |
-## Counting
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0169-majority-element) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0053-maximum-subarray) |
-## Simulation
-|  |
-| ------- |
-| [0054-spiral-matrix](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0054-spiral-matrix) |
-| [2149-rearrange-array-elements-by-sign](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
-## Matrix
-|  |
-| ------- |
-| [0048-rotate-image](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0048-rotate-image) |
-| [0054-spiral-matrix](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0054-spiral-matrix) |
-## Prefix Sum
-|  |
-| ------- |
-| [0560-subarray-sum-equals-k](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0560-subarray-sum-equals-k) |
-## Quicksort
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0075-sort-colors) |
-## Bubble Sort
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0075-sort-colors) |
-## Union-Find
-|  |
-| ------- |
-| [0128-longest-consecutive-sequence](https://github.com/tejash4444/DSA/tree/master/0128-longest-consecutive-sequence) |
-<!---LeetCode Topics End-->
+# 🚀 Dr. G. Viswanathan 30-Day Coding Challenge
+
+![Challenge Badge](https://img.shields.io/badge/Status-In%20Progress-brightgreen?style=for-the-badge&logo=github)
+![Language Badge](https://img.shields.io/badge/Language-Java_/_C++_/_Python-blue?style=for-the-badge)
+![Days](https://img.shields.io/badge/Days_Completed-30%2F30-orange?style=for-the-badge)
+
+Welcome to my repository for the **Dr. G. Viswanathan 30-Day Challenge**! 🎯 
+
+This repository serves as my digital logbook and code vault for the next 30 days. It contains my daily solutions, optimized algorithms, and notes as I tackle Data Structures and Algorithms (DSA) head-on. 
+
+## 🧠 The Mission
+The goal of this challenge is to build consistency, level up problem-solving intuition, and write clean, efficient code every single day. 
+
+### What's inside?
+* 🔥 **Daily Solutions:** Code implementations for every problem tackled during the challenge.
+* 📈 **Progressive Difficulty:** Ranging from Basic arrays and strings to complex data structures.
+* ⚡ **Optimizations:** A focus on time and space complexity (Big O).
+
+## 📂 Repository Structure
+Solutions are neatly organized by difficulty and topic so they are easy to navigate. *(Note: you may notice some folders in this repository contain colons `:` which can cause checkout issues on Windows. Consider cloning in WSL or renaming folders if needed.)*
+
+## 🛠️ Tech Stack
+* **Primary Language:** Java / C++
+* **Tools:** Git, GitHub, Logic & Caffeine ☕
+
+## 💡 Key Takeaways
+- **Consistency is King:** Writing code daily trains the brain to recognize algorithmic patterns faster.
+- **Edge Cases Matter:** Always account for the unexpected inputs.
+- **Optimization:** Getting the code to work is step one; making it fast is step two.
+
+---
+*“First, solve the problem. Then, write the code.”* – John Johnson
