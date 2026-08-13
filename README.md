@@ -30,3 +30,15 @@ Solutions are neatly organized by difficulty and topic so they are easy to navig
 
 ---
 *“First, solve the problem. Then, write the code.”* – John Johnson
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/tejash4444/DSA/tree/master/0152-maximum-product-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/tejash4444/DSA/tree/master/0152-maximum-product-subarray) |
+<!---LeetCode Topics End-->
