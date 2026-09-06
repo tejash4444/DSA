@@ -36,9 +36,11 @@ Solutions are neatly organized by difficulty and topic so they are easy to navig
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/tejash4444/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/tejash4444/DSA/tree/master/0152-maximum-product-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/tejash4444/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/tejash4444/DSA/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
