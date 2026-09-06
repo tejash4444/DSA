@@ -38,9 +38,26 @@ Solutions are neatly organized by difficulty and topic so they are easy to navig
 | ------- |
 | [0118-pascals-triangle](https://github.com/tejash4444/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/tejash4444/DSA/tree/master/0152-maximum-product-subarray) |
+| [0229-majority-element-ii](https://github.com/tejash4444/DSA/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/tejash4444/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/tejash4444/DSA/tree/master/0152-maximum-product-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/tejash4444/DSA/tree/master/0229-majority-element-ii) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/tejash4444/DSA/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/tejash4444/DSA/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/tejash4444/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
