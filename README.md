@@ -40,6 +40,7 @@ Solutions are neatly organized by difficulty and topic so they are easy to navig
 | [0118-pascals-triangle](https://github.com/tejash4444/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/tejash4444/DSA/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/tejash4444/DSA/tree/master/0229-majority-element-ii) |
+| [0704-binary-search](https://github.com/tejash4444/DSA/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,4 +67,8 @@ Solutions are neatly organized by difficulty and topic so they are easy to navig
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tejash4444/DSA/tree/master/0015-3sum) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/tejash4444/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
