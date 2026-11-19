@@ -71,4 +71,8 @@ Solutions are neatly organized by difficulty and topic so they are easy to navig
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/tejash4444/DSA/tree/master/0704-binary-search) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/tejash4444/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
